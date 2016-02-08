@@ -22,6 +22,8 @@ This is very useful for renaming a large number of such files at once.
 * Make sure that there are no spaces in the path with which you run the file from.
 
 ## How to Use
+Two files are included, but they do the same thing. The only difference is that one runs with user prompts, and the other executes automatically.
+
 ### Non-Windows Operating Systems
 There do exist means with which to run Powershell scripts on non-Windows operating systems. Unfortunately I do not know the details, so I would be unable to support any such issues ;(.
 
