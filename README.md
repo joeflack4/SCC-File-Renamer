@@ -10,6 +10,7 @@ MainString1 #### MainString2 - SuffixString
 I use this script at work on a weekly basis, for the purpose of keeping a sorting timesheets in order by either client/project or employee. Below is an example of an application of this filename syntax that is typically used in my current workplace, as well as how the filename would be converted.
 
 ProjectA MMDD EmployeeD - Notes yada yada
+
 ->
 
 EmployeeD MMDD ProjectA - Notes yada yada
